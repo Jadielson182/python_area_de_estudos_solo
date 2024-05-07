@@ -1,0 +1,6 @@
+Error: Falha no log (LogFileMixin)
+Success: Log Success (LogFileMixin)
+Error: Falha no log (LogFileMixin)
+Success: Log Success (LogFileMixin)
+Error: Falha no log (LogFileMixin)
+Success: Log Success (LogFileMixin)
