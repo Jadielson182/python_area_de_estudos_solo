@@ -14,6 +14,7 @@ print(pessoa)
 
 #.\venv\scripts\activate
 # deactivate  desativa
+# python -m pip install nome da bibilioteca
 
 # venv\scripts\python "argumento" "arumento" para ativivar codigos diretos no venve em ativar venv
 
