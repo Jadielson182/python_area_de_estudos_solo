@@ -28,12 +28,13 @@ def make_chrome_browser(*options:str)-> webdriver.Chrome:
     return browser
 
 if __name__ == '__main__':
+    TIME_TO_WAIT = 5
     # opçoes do que fazer no navegador, tem muitas opções que so deve ser usada sabendo oque vai fazer, --opção, cada opção separado por virgula
     # options = ('--check-for-update-interval, --headless') 
     options = ()
     browser = make_chrome_browser(*options)
 
 browser.get('https://www.google.com/')
-time.sleep(5)
+time.sleep(TIME_TO_WAIT)
 
 
