@@ -1,4 +1,4 @@
-# openpyxl para arquivos Excel xlsx, xlsm, xltx e xltm (instalação)
+# openpyxl- manipulando as planilhas do workbook
 # Com essa biblioteca será possível ler e escrever dados em células
 # específicas, formatar células, inserir gráficos,
 # criar fórmulas, adicionar imagens e outros elementos gráficos às suas
